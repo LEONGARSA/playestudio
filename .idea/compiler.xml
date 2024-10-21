@@ -12,7 +12,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="maven-archiver" target="1.5" />
-      <module name="paymentchainparent" target="17" />
       <module name="untitled" target="17" />
     </bytecodeTargetLevel>
   </component>
